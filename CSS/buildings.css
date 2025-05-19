@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    .ueberschrift_d {
+       color: blueviolet;
+   }
+    #gruen {
+       color: chartreuse;
+   }
+    h1 {
+       color: white
+   }
+    #essen{
+       color: rgb(237, 0, 0);
+   }
+   &.gelb {
+        background-color: rgb(255, 234, 0);
+        h1 {
+            color: black;
+            text-align: center;
+       }
+        p {
+            color: rgb(210, 14, 14);
+            font-size: larger;
+            font-weight: bold ;
+       }
+        color: #ffffff;
+   }
+}

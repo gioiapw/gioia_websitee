@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    font-family: sans-serif;
+    #blue {
+        color: rgb(110, 135, 208);
+    }
+}
+h1 {
+    color: rgb(110, 135, 208);
+}
+h2 {
+    color: rgb(110, 135, 208);
+}
+ul.disclist {
+    list-style-type: circle;
+}
+#fat {font-size:xx-large;}
+.place{filter: drop-shadow(90);}

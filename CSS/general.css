@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: #ffffff;
+    font-family: sans-serif;
+}
+h1.center{
+   text-align: center;
+
+}
+#pink{ color: pink;}
+p.center{
+   text-align: center;
+}
+#rosa{color:palegreen}
